@@ -1,0 +1,57 @@
+body{
+    font-family: Montserrat, "sans serif";
+    margin: 5px;
+    justify-content: center;
+     
+    
+    }
+    
+        header{
+            height:110vh;
+            width: 100vw;
+            background-size: cover;
+            background-image: url(image/g.jpg);
+    }
+
+    .for{     
+                                       
+        border-radius: 8px;
+        padding: 20px 50px 10px 50px;
+        display: flex;
+        text-align: center;
+      
+        justify-content: center;
+        }
+        .fr{                                   
+            margin-right: 1%;
+            height: 40px;
+            padding: 20px 50px 10px 10px;
+            background-color: rgba(203, 18, 18, 0.573);
+            width: 220px;
+           
+            }
+            .fr input #nom{                                   
+                 font-size: 40px;
+                 height: 30px;
+                 padding: 10px 10px 10px 0px;
+                
+                }
+                .fr input #prenom{                                   
+                font-weight: 500;
+                 font-size: 40px;
+                 height: 30px;
+                 padding: 10px 10px 10px 0px;
+                }
+                .fr #sujet{                                   
+                     font-size: 20px; 
+                    }
+                    .fr input{                                   
+                        font-size: 20px;
+                        height: 10px;
+                        padding: 6px 3px 9px 3px;
+                       
+                       }
+    
+            
+
+        
